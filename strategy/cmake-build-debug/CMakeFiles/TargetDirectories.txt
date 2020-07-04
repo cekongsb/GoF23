@@ -1,0 +1,3 @@
+D:/cpp/GoF23/strategy/cmake-build-debug/CMakeFiles/strategy.dir
+D:/cpp/GoF23/strategy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cpp/GoF23/strategy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

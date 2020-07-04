@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp/GoF23/strategy/context.cpp
+context.h
+D:/cpp/GoF23/strategy/context.h
+strategy.h
+D:/cpp/GoF23/strategy/strategy.h
+iostream
+-
+
+D:/cpp/GoF23/strategy/context.h
+
+D:/cpp/GoF23/strategy/main.cpp
+context.h
+D:/cpp/GoF23/strategy/context.h
+strategy.h
+D:/cpp/GoF23/strategy/strategy.h
+iostream
+-
+
+D:/cpp/GoF23/strategy/strategy.cpp
+strategy.h
+D:/cpp/GoF23/strategy/strategy.h
+iostream
+-
+
+D:/cpp/GoF23/strategy/strategy.h
+
