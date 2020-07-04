@@ -54,7 +54,7 @@ Subject* ConcreteObserverB::GetSubject() {
 }
 
 void ConcreteObserverB::PrintInfo() {
-    cout<<"ConcreteObserverA observer..."<<_sub->GetState()<<endl;
+    cout<<"ConcreteObserverB observer..."<<_sub->GetState()<<endl;
 }
 
 void ConcreteObserverB::Update(Subject *sub) {

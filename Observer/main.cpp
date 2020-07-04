@@ -10,7 +10,7 @@ int main() {
 
     sub->SetState("old");
     sub->Notify();
-    sub->SetState("new");   //y也可以由Observer调用
+    sub->SetState("new");   //也可以由Observer调用
     sub->Notify();
     return 0;
 }

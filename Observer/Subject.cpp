@@ -29,6 +29,7 @@ void Subject::Notify() {
         (*it)->Update(this);
     }
 }
+
 ConcreteSubject::ConcreteSubject() {
     _st = '\0';
 }
@@ -40,6 +41,7 @@ ConcreteSubject::~ConcreteSubject() {
 State ConcreteSubject::GetState() {
     return _st;
 }
+
 void ConcreteSubject::SetState(const State &st) {
     _st = st;
 }
