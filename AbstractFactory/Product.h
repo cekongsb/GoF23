@@ -15,6 +15,7 @@ private:
 };
 
 class AbstractProductB{
+public:
     virtual ~AbstractProductB();
 
 protected:
